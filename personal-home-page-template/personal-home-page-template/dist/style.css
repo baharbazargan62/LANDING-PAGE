@@ -1,0 +1,104 @@
+body{
+  background: url ("https://www.desktopbackground.org/p/2012/11/01/477111_background-images-for-web-pages-hd-wallpapers-pretty_1024x768_h.jpg");
+  display:block;
+}
+  .navbar{
+    background-color:black;
+   
+  }
+  .Mynavbar{
+    text-decoration:none;
+    color:white;
+    padding:10px 10px;
+
+  }
+img{
+  width:100%;
+  heght:auto;
+}
+.first-heading{
+  margin-top:20px;
+  padding-top:30px;
+  margin-left:10px;
+}
+p{
+  margin:10px 10px;
+  line-heigh:5px;
+  text-align:justify;
+}
+.searchjob{
+  margin:10px 10px;
+  line-heigh:5px;
+  text-align:justify;}
+.smallimage{
+  width:30%;
+  heght:20%;
+float:right;}
+ul span {
+  font-weight:bold;
+}
+iframe{
+  frameborder:0;
+  width:713px;
+  height:401px;
+  margin-left:15%;
+}
+  /*
+nav:hover {
+  color:blue;
+}
+#navbar{
+  float:right;
+}
+
+.c-site-head{color:blue;}
+.c-paragragh{
+  text-align:justify;
+    font-size:20px;
+margin:50px;
+line-height:30px;}
+div {
+  background: rgb(0, 128, 0, 0.3);
+}
+.searchjob{
+  text-align: justify;
+  padding:50px;
+}
+.thick-green-border {
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    border-radius:20px;
+    width:400px;
+    padding: 10px;
+  margin: 50px;
+  }
+#keysky{box-shadow: 0 18px 20px rgba(0,0,0,0.30), 0 6px 6px rgba(0,0,0,0.23);}}
+div.first {
+  background: rgba(0, 128, 0, 0.1);
+}
+
+div.second {
+  background: rgba(0, 128, 0, 0.3);
+}
+
+div.third {
+  background: rgba(0, 128, 0, 0.6);
+}
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
